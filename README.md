@@ -1,4 +1,8 @@
-# vuejs2-opensheetmusicdisplay
+# <img alt="logo-osmd" src="src/assets/logo-osmd.svg"> vuejs2-opensheetmusicdisplay
+
+This is an example of a Vuejs component for Open Sheet Music Display
+
+<img alt="vue-integration-example" src="src/assets/image.png">
 
 ## Project setup
 ```
